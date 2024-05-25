@@ -18,6 +18,20 @@
 
 # 5.Courses Section
 ![Screenshot 2024-05-25 214348](https://github.com/Debayanmondal/Book-store-app/assets/81500329/7623e76d-5e20-4678-9124-a4dee920dec5)
+
 ![Screenshot 2024-05-25 214400](https://github.com/Debayanmondal/Book-store-app/assets/81500329/50c86147-57a1-438d-95f2-80020b332bfe)
+
 ![Screenshot 2024-05-25 214420](https://github.com/Debayanmondal/Book-store-app/assets/81500329/a4a90129-e4a0-4250-aafe-3617c45db297)
+
+# 6.Mongo DB Setup
+![Screenshot 2024-05-25 215304](https://github.com/Debayanmondal/Book-store-app/assets/81500329/e409320a-fe61-44f8-94b0-37cc8c85210f)
+
+![Screenshot 2024-05-25 215323](https://github.com/Debayanmondal/Book-store-app/assets/81500329/e789ee37-d095-45e0-b266-1f1ec407b89e)
+
+![Screenshot 2024-05-25 215334](https://github.com/Debayanmondal/Book-store-app/assets/81500329/120cf3cb-4c3c-492d-a5a1-885351490193)
+
+
+
+
+
 
